@@ -1,0 +1,136 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Joyfull newes from the Earle of VVarwick being a true relation of the taking of two ships that came from Denmark, laden with ammunition and money, to the value of an hundred thousand pound, by the Earle of Warwick for the service of the King and Parliament : also the Scots remonstrance, declaring their fellow-feeling of the distractions and distempers of this kingdome, with their resolution to petition His Majesty for an accommodation with His Parliament, and if that be rejected, by force of armes to assist the Parliament to bring the delinquents and disturbers of the state to condigne punishment.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A46326</idno>
+            <idno type="STC">Wing J1144A</idno>
+            <idno type="STC">ESTC R16116</idno>
+            <idno type="EEBO-CITATION">12724883</idno>
+            <idno type="OCLC">ocm 12724883</idno>
+            <idno type="VID">66308</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A46326)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 66308)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 694:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Joyfull newes from the Earle of VVarwick being a true relation of the taking of two ships that came from Denmark, laden with ammunition and money, to the value of an hundred thousand pound, by the Earle of Warwick for the service of the King and Parliament : also the Scots remonstrance, declaring their fellow-feeling of the distractions and distempers of this kingdome, with their resolution to petition His Majesty for an accommodation with His Parliament, and if that be rejected, by force of armes to assist the Parliament to bring the delinquents and disturbers of the state to condigne punishment.</title>
+                  <author>Warwick, Robert Rich, Earl of, 1587-1658.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Th. Cooke,</publisher>
+                  <pubPlace>[S.l.] :</pubPlace>
+                  <date>Oct. 4, 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:66308:1"/>
+            <p>JOYFULL NEWES <hi>FROM THE</hi> Earle of VVarwick: BEING A true Relation of the taking of two Ships that came from Denmark, laden with Am<g ref="char:EOLhyphen"/>munition and money, to the value of an hundred thouſand pound, by the Earle of <hi>Warwick</hi> for the ſervice of the King and Parliament.</p>
+            <p>ALSO THE SCOTS REMONSTRANCE, Declaring their fellow-feeling of the diſtra<g ref="char:EOLhyphen"/>ctions and diſtempers of this Kingdome, with their reſolution to petition His Majeſty for an accommo<g ref="char:EOLhyphen"/>dation with His Parliament; and if that be rejected, by force of armes to aſſiſt the Parliament to bring the Delinquents and Diſturbers of the State to condigne puniſhment.</p>
+            <p>Printed for <hi>Th. Cooke.</hi> October 4. 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:66308:2"/>
+            <pb n="1" facs="tcp:66308:2"/>
+            <head>JOYFULL NEWES <hi>FROM THE</hi> EARL OF WARWICK: <hi>BEING</hi> A true Relation of the taking of two ſhips which came from DENMARK, la<g ref="char:EOLhyphen"/>den with ammunition and money, by the Earle of <hi>Warwick,</hi> who are coming up to <hi>London.</hi>
+            </head>
+            <p>UPon the eight and twentieth day of September, when the honou<g ref="char:EOLhyphen"/>rable Houſes of Parliament were aſſembled, they received information by Letters from the Earle of Warwick, which was to this effect: That being reſident with his charge in the Navie, wherewith he was intruſted by the Par<g ref="char:EOLhyphen"/>liament, for the ſecurity and peace of the Kingdome, he diſcovered two ſhips a<g ref="char:EOLhyphen"/>farre
+<pb n="2" facs="tcp:66308:3"/>off, which were coming towards the coaſt of England from Denmark, full fraught, and when they perceived themſelves to be diſcovered by the Eng<g ref="char:EOLhyphen"/>liſh Fleet, which drew ſomewhat nigh to them, and ſeeing it were in vaine to think to ſave themſelves by flight, and that they were no way able to defend themſelves if they ſhould run the haz<g ref="char:EOLhyphen"/>zard of an encounter with the Engliſh Fleet, without any oppoſition or reſi<g ref="char:EOLhyphen"/>ſtance they ſuffered themſelves to bee boarded by the Earle of Warwick, who found them to be laden with good ſtore of ammunition and money, which mounted to the value of an hundred thouſand pound, he ſeized upon them and their treaſure, that they might not be imployed againſt the Parliament, and hath ſent them guarded wi h two other of his ſhips up to London for the ſervice of the King and Parliament.</p>
+            <p>Notwithſtanding theſe and other the like meanes of aſsiſtance uſed for the up<g ref="char:EOLhyphen"/>holding and maintaining of the malig<g ref="char:EOLhyphen"/>nant
+<pb n="3" facs="tcp:66308:3"/>and ill-affected party of the King<g ref="char:EOLhyphen"/>dome againſt the Parliament, yet have we no cauſe of diſcouragement, becauſe of the neere union between the two na<g ref="char:EOLhyphen"/>tions of England and Scotland, from whom (upon Friday laſt) Letters were read in the Houſe of Commons, dire<g ref="char:EOLhyphen"/>cted to the Lords and Commons now aſſembled in the high Court of Parlia<g ref="char:EOLhyphen"/>ment of England, in manner of a Re<g ref="char:EOLhyphen"/>monſtrance, wherein they did declare the ſenſe that they have of the great di<g ref="char:EOLhyphen"/>ſtractions and diſtempers of this King<g ref="char:EOLhyphen"/>dome, tending to the ſubverſion of the long eſtabliſhed government thereof, and the confuſion of the whole State, and in the end would prove the diſtru<g ref="char:EOLhyphen"/>ction of that their Kingdome of Scot<g ref="char:EOLhyphen"/>land; and therefore the Lords and Commons of that Kingdome are reſol<g ref="char:EOLhyphen"/>ved to preſent a Petition to His Majeſty, with ſuch reaſons as they conceive may move him to an accommodation of peace &amp; agreement with both his Hou<g ref="char:EOLhyphen"/>ſes of Parliament; but if the ſame ſhould
+<pb n="4" facs="tcp:66308:4"/>be rejected, they are reſolved to aſsiſt the Parliament with force of armes, to de<g ref="char:EOLhyphen"/>fend their juſt cauſe, and to bring all de<g ref="char:EOLhyphen"/>linquents and incendiaries that have di<g ref="char:EOLhyphen"/>ſturbed the peace of the Kingdome, and cauſed theſe troubles, to condigne pu<g ref="char:EOLhyphen"/>niſhment, which the Houſe with great joy and much thankfulneſſe accepted of.</p>
+            <p>On the 22. of September the great Rebel Oneal came before Munſter with neer 15000. men, threatning ruine and deſtruction to all that ſhould any way reſiſt them, pretending withall, that he had the Kings authority for what he did: but I conceive that is but a coun<g ref="char:EOLhyphen"/>terfeit ſhew and falſe pretence, where<g ref="char:EOLhyphen"/>with he beguiled the ignorant Iriſh, ta<g ref="char:EOLhyphen"/>king example, as I conceive, of the ma<g ref="char:EOLhyphen"/>lignants of your Kingdome, who co<g ref="char:EOLhyphen"/>lour all their vvicked and malicious de<g ref="char:EOLhyphen"/>ſignes under a pretence of ſtanding for His Majeſty, and the defence of the true Proteſtant Religion, when indeed their ends are like his, tending to nothing but ruine. But we, being acquainted with
+<pb n="5" facs="tcp:66308:4"/>his trecherous actions, and knowing that our chief ſecurity conſiſted in Gods protection and our own timely preven<g ref="char:EOLhyphen"/>tion, gathered our ſelves together under the command of our Vice-Preſident: and though we were but a ſmall num<g ref="char:EOLhyphen"/>ber in compariſon of his forces, yet be<g ref="char:EOLhyphen"/>ing put into a martial equipage, we fron<g ref="char:EOLhyphen"/>ted boldly, without demanding the cauſe of his preſent arrivall.</p>
+            <p>This ſudden and unexpected charge proved very advantagious to us, and diſ<g ref="char:EOLhyphen"/>advantagious to them: for inſtead of making good their ground, they loſt their order, which by the continuall motion and ſtriving of the groſſe body, was rather more diſordered, then any way recovered, by which meanes our men did very great execution upon the army of the Rebels, routing of their maine Batalia. To be ſhort, we ſlew a<g ref="char:EOLhyphen"/>bove 700. Rebels, and loſt not above 25.</p>
+            <p>On the firſt of October the Parlia<g ref="char:EOLhyphen"/>ment received Letters from the Earle of Bedford, informing them that the Mar<g ref="char:EOLhyphen"/>queſſe
+<pb n="6" facs="tcp:66308:5"/>of Hartford, the Lord Pawlet, and the reſt of that company, except Sir Ralph Hopton vvhich is departed from them, and eſcaped privately (as it is thought) backe againe into Somerſet<g ref="char:EOLhyphen"/>ſhire, vvere cloſely follovved by the ſaid Earle to Minyard, vvhere hee finding of ſome ſmall Coale-ſhips, notvvithſtand<g ref="char:EOLhyphen"/>ing the Earle of Bedford having uſed all poſsible meanes to prevent his paſſage over Severne, he vvas gotten over the ri<g ref="char:EOLhyphen"/>ver, and is eſcaped into Wales, but that the Earle of Bedford in his purſuit after them, had taken M. Pallart, Sir Henry Berkley, and two of his brothers, Sir Charles and Sir John Berkley, which the ſaid Earle is ſending up to the Parli<g ref="char:EOLhyphen"/>ament. The Earle is now diſarming of the Papiſts and Malignant Party of that County, and placing ſufficient Garri<g ref="char:EOLhyphen"/>ſons for the preſervation of the peace of that County.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
